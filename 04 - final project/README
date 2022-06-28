@@ -1,1 +1,6 @@
-
+Adding a Cart Context and using him.
+Working with Refs and Forward Refs.
+Outputting Cart items.
+Working on a more Complex Reducer.
+Making items removable.
+Add the useEffect Hook.
